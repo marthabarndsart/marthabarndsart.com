@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  XML Sitemap for Martha Barnds Art
+  Lists all publicly accessible pages on the site
+  to improve search engine discovery. When deploying
+  to GitHub Pages adjust the loc values to the
+  appropriate domain if necessary.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>index.html</loc>
+    <lastmod>2025-09-23</lastmod>
+  </url>
+  <url>
+    <loc>about.html</loc>
+    <lastmod>2025-09-23</lastmod>
+  </url>
+  <url>
+    <loc>commission.html</loc>
+    <lastmod>2025-09-23</lastmod>
+  </url>
+  <url>
+    <loc>contact.html</loc>
+    <lastmod>2025-09-23</lastmod>
+  </url>
+  <url>
+    <loc>products/product1.html</loc>
+    <lastmod>2025-09-23</lastmod>
+  </url>
+  <url>
+    <loc>products/product2.html</loc>
+    <lastmod>2025-09-23</lastmod>
+  </url>
+  <url>
+    <loc>products/product3.html</loc>
+    <lastmod>2025-09-23</lastmod>
+  </url>
+</urlset>
